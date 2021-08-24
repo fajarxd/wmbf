@@ -39,7 +39,7 @@ $ pip install mechanize
 
 $ pip install futures
 
-$ rm -rf premium
+$ rm -rf wmbf
 
 $ git clone https://github.com/WIBUHENGKER/wmbf
 
