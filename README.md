@@ -1,6 +1,6 @@
 
 # WIBUHENGKER
-![FB_IMG_16291888220016231](https://user-images.githubusercontent.com/88732843/130036530-e612fe46-94d7-47a2-96e4-6142c3b46d27.jpg)
+![20210828_000149](https://user-images.githubusercontent.com/89444198/131363078-05b96087-3438-4e08-9f39-a572a7072d9e.jpg)
 
 <h1 align="center">
 
