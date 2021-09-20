@@ -37,7 +37,7 @@ $ pip install futures
 
 $ rm -rf wmbf
 
-$ git clone https://github.com/WIBUHENGKER/wmbf
+$ git clone https://github.com/fajarxd/wmbf
 
 ```
 
