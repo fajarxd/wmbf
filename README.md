@@ -4,9 +4,7 @@
 
   - Fajar DxD
 
-```
-
-# Support By
+Support By
 
 ```bash
 
