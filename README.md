@@ -1,12 +1,11 @@
-# Author
+# Info
 
 ```bash
+Author
 
   - Fajar DxD
 
 Support By
-
-```bash
 
   - Dapunta Adya R.
   - Syaiful Rahmat
