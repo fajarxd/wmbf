@@ -1,5 +1,24 @@
+# Author
 
-#### Install script on Termux
+```bash
+
+  - Fajar DxD
+
+```
+
+# Support By
+
+```bash
+
+  - Dapunta Adya R.
+  - Syaiful Rahmat
+  - Xurvanus Team
+  - Victoria ID
+  - Laskar Sniper Muslim
+
+```
+
+# Install script on Termux
 
 ```bash
 
@@ -25,7 +44,7 @@ $ git clone https://github.com/WIBUHENGKER/wmbf
 
 ```
 
-#### Run script
+# Run script
 
 ```bash
 
