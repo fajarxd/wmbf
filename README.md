@@ -1,4 +1,4 @@
-# Info
+#### Info
 
 ```bash
 Author
@@ -15,7 +15,7 @@ Support By
 
 ```
 
-# Install script on Termux
+#### Install script on Termux
 
 ```bash
 
@@ -41,7 +41,7 @@ $ git clone https://github.com/fajarxd/wmbf
 
 ```
 
-# Run script
+#### Run script
 
 ```bash
 
