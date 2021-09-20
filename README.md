@@ -1,6 +1,3 @@
-<h1 align="center">
-  <b>Hello <b> <a href="https://www.facebook.com/FajarDxD" target="blank">Fajar DxD</a> Was Here
-</p>
 
 #### Install script on Termux
 
